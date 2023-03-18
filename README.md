@@ -3,7 +3,8 @@
 ### Frontend </br>
 ### DELIVERABLES:</br>
 • Create a view of order entities in-memory on the page o The finished product should resemble the mockup on the next page • Implement a feature where users can create new order entities </br>
-• Implement a simple dropdown filter to limit the order view to certain order types • Implement a simple textbox search to isolate an order by ID • Implement a delete feature by which a user can remove one or many orders at once </br>
+• Implement a simple dropdown filter to limit the order view to certain order types • Implement a simple textbox search to isolate an order by ID </br>
+• Implement a delete feature by which a user can remove one or many orders at once </br>
 
 ### MANDATORY FEATURES:</br>
 Fully functional web page/application which behaves as described on the previous page </br>
